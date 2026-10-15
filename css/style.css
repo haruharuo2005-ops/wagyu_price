@@ -70,3 +70,7 @@ footer {
   min-width: 0;
   margin: 0;
 }
+
+.card {
+  border-radius: 0;
+}
