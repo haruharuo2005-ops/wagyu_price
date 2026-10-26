@@ -9,5 +9,3 @@ $(function() {
     return false;
   });
 });
-
-
